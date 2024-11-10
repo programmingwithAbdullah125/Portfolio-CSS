@@ -1,21 +1,21 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* *{
+  background-color: gray;
+  color: white;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.image-container{
+  border-radius: 50%;
+  display: flex;
+  margin-top: 20px;
 }
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+.main-container {
+  display: flex;
+  justify-content:center ;
+  margin-top: 90px;
+  gap: 250px;
 }
+.myinfo {
+  padding-left: 20px;
+  margin-top:50px;
+  font-weight: bold;
+  font-size: 24px;
+} */
