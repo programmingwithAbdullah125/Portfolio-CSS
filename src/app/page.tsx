@@ -1,6 +1,5 @@
-import Navbar from '../header/navbar';
+
 import Image from "next/image";
-import Link from "next/link";
 import './homepage.css'
 export default function Home() {
   return (
@@ -12,7 +11,7 @@ export default function Home() {
        </div>
        <br />
        <br />
-        <p>Hello I'm Abdullah <br /> I am in FSc- II and <br />nowaday i am learning next.js and artificial intellegence <br />SEO expert</p>
+        <p>Hello I&apos;m Abdullah <br /> I am in FSc- II and <br />nowaday i am learning next.js and artificial intellegence <br />SEO expert</p>
       </div>
       <div className="image-container">
         <Image

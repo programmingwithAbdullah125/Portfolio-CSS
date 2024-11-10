@@ -1,4 +1,4 @@
-import Link from "next/link";
+
 import './aboutPage.css'; 
 export default function About() {
     return (
